@@ -1,0 +1,40 @@
+# Flutter
+.dart_tool/
+.packages
+build/
+ios/Flutter/
+pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+.vscode/
+.DS_Store
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+android/key.properties
+
+# iOS
+ios/Pods/
+ios/Runner.xcworkspace/xcshareddata/
+ios/Runner.xcworkspace/xcuserdata/
+
+# Asset exports and video dumps
+assets/figma_screens/
+assets/videos/
+
+# Generated files
+*.g.dart
+*.freezed.dart
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+
+# Temporary files
+*.tmp
+*.temp 
