@@ -17,15 +17,6 @@ A fully functional TikTok clone built with Flutter, featuring a vertical video f
 - **Smooth Animations**: Fluid transitions and interactions
 - **Dark Theme**: Proper dark theme for video content
 
-## 📱 Screenshots
-
-The app includes visual references from the `assets/figma_screens/` directory:
-- Home feed with vertical scrolling
-- User profile with video grid
-- Upload interface
-- Comments and sharing features
-- Settings and privacy screens
-
 ## 🛠️ Tech Stack
 
 - **Flutter** - Core framework
